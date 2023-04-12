@@ -1,6 +1,4 @@
 import threading
-
-
 from time import sleep
 
 mutex = threading.Lock()
